@@ -10,10 +10,10 @@ Use bahasa Indonesia for table name and column name and all text in cms you crea
 
 Table:
 - pengguna : [nama_pengguna,kata_sandi, etc]
-- grup_pengguna
-- grup
-- grup_akses
-- akses
+- grup_pengguna (admin, kasir, gudang)
+- grup/departemen (hrd, finance, operasional, accounting)
+- grup_akses (hrd: menu1, menu2, finance: menu3, menu4)
+- akses/menu (menu1, menu2, menu3, menu4)
 
 Addition:
 - Write a complete documentation of the system.
